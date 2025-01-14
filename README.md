@@ -34,7 +34,7 @@ Welcome to the **EV Charging Station Locator App** repository! This app is desig
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Alwazf99/ev-charging-station-locator.git
+   https://github.com/Domain-Cmap/projects-mayank5354/blob/main/README.md?plain=1
     ```
 
 2. **Navigate to the project directory:**
